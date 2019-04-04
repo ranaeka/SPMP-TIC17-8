@@ -296,3 +296,50 @@
 <p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp;Kami membutuhkan kolaborasi dengan kelompok lain dengan mereka membuat client berbasis mobile dan kami membuat server berbasis web.</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><strong>BAB V<strong></p>
+<p style="text-align: center;"><strong>PAKET PEKERJAAN<strong></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: justify;">5.1	Paket pekerjaan</p>
+<p>1.	Project Manager	: Rana Eka Millenio<p>
+<ol>
+<li>a.	Mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.</li>
+<li>b.	Mengawasi seluruh personil tim dalam pengerjaan proyek</li>
+</ol>
+<p>2.	Front End		: Iis Juita Sari<p>
+<ol>
+<li>a.	Membuat Mockup</li>
+<li>b.	Membuat Desain Aplikasi</li>
+</ol>
+<p>3.	Back End 		: Najwah</p>
+<ol>
+<li>a.	Membuat program untuk fitur- fitur yang ada pada aplikasi agar berfungsi.</li>
+<ol>
+<p>4.	Dokumentasi		: Semua</p>
+<ol>
+<li>a.	Membuat dokumen-dokumen yang dibutuhkan dalam proses pembuatan aplikasi.</li>
+
+<p style="text-align: justify;">5.2	Ketergantungan/keterkaitan</p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp;Hubungan antara project manager dengan seluruh bagian personal sebagai pengatur semuanya dan memastikan semua langkah yang dilakukan sesuai tujuan pembuatan aplikasi. Back end mengaplikasikan semua fitur yang telah dibuat oleh Front end dan dokumentasi membuat dokumen dari apa yang dilakukan project manager dan bagian personal lain.</p>
+
+<p style="text-align: justify;"><b>5.3	Kebutuhan sumber daya</b></p>
+<p style="text-align: justify;">&nbsp;&nbsp;Tabel 5.1  Kebutuhan Sumber Daya Sofware</p>
+<p align="left"><img src="Gambar/1.jpg" width="800" height="600"></p>
+
+<p style="text-align: justify;">&nbsp;&nbsp;Tabel 5.2  Kebutuhan Sumber Daya Hardware</p>
+<p align="left"><img src="Gambar/2.jpg" width="800" height="600"></p>
+
+<p style="text-align: justify;"><b>5.4	Alokasi budget dan sumber daya</b></p>
+<p style="text-align: justify;">&nbsp;&nbsp;Tabel 5.4.1 Estimasi Biaya Sofware</p>
+<p align="left"><img src="Gambar/3.jpg" width="800" height="600"></p>
+
+<p style="text-align: justify;">&nbsp;&nbsp;5.4.2	Estimasi Biaya Hardware</p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;Tabel 5.4.2  Estimasi Biaya Hardware</p>
+<p align="left"><img src="Gambar/4.jpg" width="800" height="600"></p>
+
+<p style="text-align: justify;">&nbsp;&nbsp;5.4.3	Estimasi Biaya Lain- Lain</p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;Tabel 5.4.3  Estimasi Biaya Lain- Lain</p>
+<p align="left"><img src="Gambar/5.jpg" width="800" height="600"></p>
+
+<p style="text-align: justify;">5.5	Jadwal</p>
+<p align="left"><img src="Gambar/Jadwal.jpg" width="800" height="600"></p>
